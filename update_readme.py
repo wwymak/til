@@ -16,7 +16,7 @@ if __name__ == "__main__":
     for row in db["til"].rows_where(order_by="created_utc"):
         by_topic.setdefault(row["topic"], []).append(row)
     index = ["<!-- index starts -->"]
-    for topic, rows in by_topic.items():
+    for topic, rows in sorted(by_topic.items(), key=lambda x: x[0], reverse=False):
         index.append("## {}\n".format(topic))
         for row in rows:
             index.append(
