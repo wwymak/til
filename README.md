@@ -2,9 +2,13 @@
 
 My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/til). (Also thanks to @simonw for sharing his github actions tips for the autogenerating table of contents)
 
-<!-- count starts -->3<!-- count ends --> TILs so far.
+<!-- count starts -->4<!-- count ends --> TILs so far.
 
 <!-- index starts -->
+## github-actions
+
+* [Workflow security settings](https://github.com/wwymak/til/blob/master/github-actions/workflow_security_settings.md) - 2020-08-15
+
 ## linux
 
 * [Pretty print a directory structure for markdown](https://github.com/wwymak/til/blob/master/linux/pretty_print_directory_structure.md) - 2020-08-07
