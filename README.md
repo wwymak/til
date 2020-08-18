@@ -7,7 +7,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 <!-- index starts -->
 ## github
 
-* [How to configure Github to correct count the language stats in your repository](https://github.com/wwymak/til/blob/master/github/language_stats_configuration.md) - 2020-08-18
+* [How to configure Github to correctly count the language stats in your repository](https://github.com/wwymak/til/blob/master/github/language_stats_configuration.md) - 2020-08-18
 
 ## github-actions
 
