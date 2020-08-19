@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/til). (Also thanks to @simonw for sharing his github actions tips for the autogenerating table of contents)
 
-<!-- count starts -->5<!-- count ends --> TILs so far.
+<!-- count starts -->6<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## github
@@ -21,4 +21,5 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 ## postgres
 
 * [The ON COMMIT command](https://github.com/wwymak/til/blob/master/postgres/on_commit.md) - 2020-08-13
+* [Finding the running postgres version without connecting](https://github.com/wwymak/til/blob/master/postgres/getting_postgres_version.md) - 2020-08-19
 <!-- index ends -->
