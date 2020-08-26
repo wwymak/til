@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/til). (Also thanks to @simonw for sharing his github actions tips for the autogenerating table of contents)
 
-<!-- count starts -->6<!-- count ends --> TILs so far.
+<!-- count starts -->7<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## github
@@ -17,6 +17,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 
 * [Pretty print a directory structure for markdown](https://github.com/wwymak/til/blob/master/linux/pretty_print_directory_structure.md) - 2020-08-07
 * [Show hidden files in Ubuntu file manager](https://github.com/wwymak/til/blob/master/linux/show_hidden_files.md) - 2020-08-09
+* [Installing Ubuntu as dual boot OS](https://github.com/wwymak/til/blob/master/linux/install_ubuntu_dual_boot.md) - 2020-08-26
 
 ## postgres
 
