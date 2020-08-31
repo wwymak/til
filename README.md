@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/til). (Also thanks to @simonw for sharing his github actions tips for the autogenerating table of contents)
 
-<!-- count starts -->7<!-- count ends --> TILs so far.
+<!-- count starts -->8<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## github
@@ -12,6 +12,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 ## github-actions
 
 * [Workflow security settings](https://github.com/wwymak/til/blob/master/github-actions/workflow_security_settings.md) - 2020-08-15
+* [Check out branch in github action](https://github.com/wwymak/til/blob/master/github-actions/checkout_branch_in_github_pr_action.md) - 2020-08-31
 
 ## linux
 
