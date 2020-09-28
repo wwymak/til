@@ -17,7 +17,7 @@ def created_changed_times(repo_path, ref="master"):
         affected_files = list(commit.stats.files.keys())
         print(dt, affected_files, commit.stats.files.values())
         for filepath in affected_files:
-            if re.findall(r'{.* => .*}', filepath):
+            if len(re.findall(r'{.* => .*}', filepath)):
                 filepath = filepath.split('=> ')[-1]
             if filepath not in created_changed_times:
                 created_changed_times[filepath] = {
@@ -35,6 +35,7 @@ def created_changed_times(repo_path, ref="master"):
 
 def build_database(repo_path):
     all_times = created_changed_times(repo_path)
+    print(all_times.keys())
     db = sqlite_utils.Database(repo_path / "til.db")
     table = db.table("til", pk="path")
     for filepath in root.glob("*/*.md"):
