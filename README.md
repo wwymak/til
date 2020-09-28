@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/til). (Also thanks to @simonw for sharing his github actions tips for the autogenerating table of contents)
 
-<!-- count starts -->11<!-- count ends --> TILs so far.
+<!-- count starts -->13<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## conda
@@ -18,6 +18,10 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 * [Workflow security settings](https://github.com/wwymak/til/blob/master/github-actions/workflow_security_settings.md) - 2020-08-15
 * [Check out branch in github action](https://github.com/wwymak/til/blob/master/github-actions/checkout_branch_in_github_pr_action.md) - 2020-08-31
 
+## golang
+
+* [Import functions from a file in a different folder](https://github.com/wwymak/til/blob/master/golang/import_func_from_different_folder.md) - 2020-09-28
+
 ## linux
 
 * [Pretty print a directory structure for markdown](https://github.com/wwymak/til/blob/master/linux/pretty_print_directory_structure.md) - 2020-08-07
@@ -25,6 +29,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 * [Installing Ubuntu as dual boot OS](https://github.com/wwymak/til/blob/master/linux/install_ubuntu_dual_boot.md) - 2020-08-26
 * [Reinstating topbar icons](https://github.com/wwymak/til/blob/master/linux/reinstate_topbar_icons.md) - 2020-09-02
 * [Find all files containing query text in terminal](https://github.com/wwymak/til/blob/master/linux/find_text_in_any_file.md) - 2020-09-16
+* [How to say yes to terminal prompts](https://github.com/wwymak/til/blob/master/linux/say_yes_automatically.md) - 2020-09-28
 
 ## postgres
 
