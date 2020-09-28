@@ -2,6 +2,7 @@ from datetime import timezone
 import git
 import pathlib
 import sqlite_utils
+import re
 
 
 root = pathlib.Path(__file__).parent.resolve()
@@ -16,6 +17,8 @@ def created_changed_times(repo_path, ref="master"):
         affected_files = list(commit.stats.files.keys())
         print(dt, affected_files, commit.stats.files.values())
         for filepath in affected_files:
+            if re.findall(r'{.* => .*}', filepath):
+                filepath = filepath.split('=> ')[-1]
             if filepath not in created_changed_times:
                 created_changed_times[filepath] = {
                     "created": dt.isoformat(),
