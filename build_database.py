@@ -18,7 +18,7 @@ def created_changed_times(repo_path, ref="master"):
         print(dt, affected_files, commit.stats.files.values())
         for filepath in affected_files:
             if len(re.findall(r'{.* => .*}', filepath)) > 0:
-                filepath_modified = filepath.split('=> ')[-1]
+                filepath_modified = filepath.split('=> ')[-1].replace('}', '')
                 if len(filepath.split("/")) > 1:
                     filepath_modified = f"{filepath.split('/')[0]}/{filepath_modified}"
                 filepath = filepath_modified
