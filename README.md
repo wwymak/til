@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/til). (Also thanks to @simonw for sharing his github actions tips for the autogenerating table of contents)
 
-<!-- count starts -->13<!-- count ends --> TILs so far.
+<!-- count starts -->14<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## conda
@@ -30,6 +30,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 * [Reinstating topbar icons](https://github.com/wwymak/til/blob/master/linux/reinstate_topbar_icons.md) - 2020-09-02
 * [Find all files containing query text in terminal](https://github.com/wwymak/til/blob/master/linux/find_text_in_any_file.md) - 2020-09-16
 * [How to say yes to terminal prompts](https://github.com/wwymak/til/blob/master/linux/say_yes_automatically.md) - 2020-09-28
+* [Fixing Ubuntu's Livepatch error](https://github.com/wwymak/til/blob/master/linux/fix_livepatch_error.md) - 2020-09-30
 
 ## postgres
 
