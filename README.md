@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/til). (Also thanks to @simonw for sharing his github actions tips for the autogenerating table of contents)
 
-<!-- count starts -->16<!-- count ends --> TILs so far.
+<!-- count starts -->18<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## conda
@@ -38,4 +38,9 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 
 * [The ON COMMIT command](https://github.com/wwymak/til/blob/master/postgres/on_commit.md) - 2020-08-13
 * [Finding the running postgres version without connecting](https://github.com/wwymak/til/blob/master/postgres/getting_postgres_version.md) - 2020-08-19
+
+## python
+
+* [Reading a text file into a string variable](https://github.com/wwymak/til/blob/master/python/read_text_file_into_string_one_liner.md) - 2020-10-13
+* [Writing a bash script in python](https://github.com/wwymak/til/blob/master/python/writing_bash_script.md) - 2020-10-13
 <!-- index ends -->
