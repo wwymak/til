@@ -2,12 +2,13 @@
 
 My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/til). (Also thanks to @simonw for sharing his github actions tips for the autogenerating table of contents)
 
-<!-- count starts -->20<!-- count ends --> TILs so far.
+<!-- count starts -->21<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## conda
 
 * [Creating an environment with 'default' packages](https://github.com/wwymak/til/blob/master/conda/default_environment.md) - 2020-09-02
+* [Reclaiming disk space from (ana)conda](https://github.com/wwymak/til/blob/master/conda/reclaim_disk_space.md) - 2020-10-25
 
 ## github
 
