@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/til). (Also thanks to @simonw for sharing his github actions tips for the autogenerating table of contents)
 
-<!-- count starts -->21<!-- count ends --> TILs so far.
+<!-- count starts -->22<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## conda
@@ -34,6 +34,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 * [Fixing Ubuntu's Livepatch error](https://github.com/wwymak/til/blob/master/linux/fix_livepatch_error.md) - 2020-09-30
 * [Don't refetch file in wget if a copy already exists locally](https://github.com/wwymak/til/blob/master/linux/wget_dont_refetch.md) - 2020-10-12
 * [Getting info on how much disk space you have](https://github.com/wwymak/til/blob/master/linux/list_disk_sizes.md) - 2020-10-13
+* [How to set up a new hard drive](https://github.com/wwymak/til/blob/master/linux/setting_up_new_hard_drive.md) - 2020-11-02
 
 ## postgres
 
