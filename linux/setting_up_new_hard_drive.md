@@ -42,6 +42,8 @@ Finally, on reading https://techguides.yt/guides/how-to-partition-format-and-aut
 
 11. you can also change disk settings e.g. automount on startup using `sudo gnome-disks`
 
+12. Also, change the owner of the disk from root to your user e.g. `sudo chown -R myuser path/to/new_harddrive`
+
 ```
 GPT fdisk (gdisk) version 1.0.3
 
