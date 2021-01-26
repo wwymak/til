@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/til). (Also thanks to @simonw for sharing his github actions tips for the autogenerating table of contents)
 
-<!-- count starts -->25<!-- count ends --> TILs so far.
+<!-- count starts -->26<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## conda
@@ -49,6 +49,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 * [Merge pandas dataframe by closest value](https://github.com/wwymak/til/blob/master/python/pandas_merge_by_closes.md) - 2020-10-19
 * [Convert pandas multindex groupby to flattened columns](https://github.com/wwymak/til/blob/master/python/pandas_flatten_multiindex.md) - 2020-10-19
 * [How to fill np.nan values in numpy arrays with values](https://github.com/wwymak/til/blob/master/python/numpy_fillna.md) - 2020-11-07
+* [Example heuristic classifier in sklearn](https://github.com/wwymak/til/blob/master/python/sklearn_heuristic_classifier.md) - 2021-01-26
 
 ## tensorflow
 
