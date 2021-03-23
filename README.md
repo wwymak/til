@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/til). (Also thanks to @simonw for sharing his github actions tips for the autogenerating table of contents)
 
-<!-- count starts -->26<!-- count ends --> TILs so far.
+<!-- count starts -->28<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## conda
@@ -36,6 +36,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 * [Getting info on how much disk space you have](https://github.com/wwymak/til/blob/master/linux/list_disk_sizes.md) - 2020-10-13
 * [How to set up a new hard drive](https://github.com/wwymak/til/blob/master/linux/setting_up_new_hard_drive.md) - 2020-11-02
 * [Finding files you have modified since a date](https://github.com/wwymak/til/blob/master/linux/find_files_modified_since.md) - 2020-12-10
+* [Recording a screen video on Ubuntu](https://github.com/wwymak/til/blob/master/linux/screenrecording.md) - 2021-03-23
 
 ## postgres
 
@@ -50,6 +51,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 * [Convert pandas multindex groupby to flattened columns](https://github.com/wwymak/til/blob/master/python/pandas_flatten_multiindex.md) - 2020-10-19
 * [How to fill np.nan values in numpy arrays with values](https://github.com/wwymak/til/blob/master/python/numpy_fillna.md) - 2020-11-07
 * [Example heuristic classifier in sklearn](https://github.com/wwymak/til/blob/master/python/sklearn_heuristic_classifier.md) - 2021-01-26
+* [combining Matplotlib legends from two axis](https://github.com/wwymak/til/blob/master/python/combining_matplotlib_legends.md) - 2021-03-23
 
 ## tensorflow
 
