@@ -2,9 +2,13 @@
 
 My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/til). (Also thanks to @simonw for sharing his github actions tips for the autogenerating table of contents)
 
-<!-- count starts -->28<!-- count ends --> TILs so far.
+<!-- count starts -->29<!-- count ends --> TILs so far.
 
 <!-- index starts -->
+## MLtools
+
+* [Config for videos in label studio](https://github.com/wwymak/til/blob/master/MLtools/label_studio_video_settings.md) - 2021-03-28
+
 ## conda
 
 * [Creating an environment with 'default' packages](https://github.com/wwymak/til/blob/master/conda/default_environment.md) - 2020-09-02
