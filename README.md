@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/til). (Also thanks to @simonw for sharing his github actions tips for the autogenerating table of contents)
 
-<!-- count starts -->30<!-- count ends --> TILs so far.
+<!-- count starts -->31<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## MLtools
@@ -57,6 +57,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 * [Example heuristic classifier in sklearn](https://github.com/wwymak/til/blob/master/python/sklearn_heuristic_classifier.md) - 2021-01-26
 * [combining Matplotlib legends from two axis](https://github.com/wwymak/til/blob/master/python/combining_matplotlib_legends.md) - 2021-03-23
 * [Removing code cells from jupyter export](https://github.com/wwymak/til/blob/master/python/jupyter_remove_code_from_output.md) - 2021-04-13
+* [Adding formatting to print outputs](https://github.com/wwymak/til/blob/master/python/print_command_output_format.md) - 2021-04-20
 
 ## tensorflow
 
