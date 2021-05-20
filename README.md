@@ -2,9 +2,13 @@
 
 My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/til). (Also thanks to @simonw for sharing his github actions tips for the autogenerating table of contents)
 
-<!-- count starts -->32<!-- count ends --> TILs so far.
+<!-- count starts -->33<!-- count ends --> TILs so far.
 
 <!-- index starts -->
+## BigQuery
+
+* [Window function with a filter](https://github.com/wwymak/til/blob/master/BigQuery/window_function_with_filter.md) - 2021-05-20
+
 ## MLtools
 
 * [Config for videos in label studio](https://github.com/wwymak/til/blob/master/MLtools/label_studio_video_settings.md) - 2021-03-28
