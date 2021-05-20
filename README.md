@@ -2,7 +2,7 @@
 
 My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/til). (Also thanks to @simonw for sharing his github actions tips for the autogenerating table of contents)
 
-<!-- count starts -->31<!-- count ends --> TILs so far.
+<!-- count starts -->32<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## MLtools
@@ -62,4 +62,5 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 ## tensorflow
 
 * [Installing tensorflow v2.x](https://github.com/wwymak/til/blob/master/tensorflow/installation_notes_nov_2020.md) - 2020-11-16
+* [Save and load a tf.keras model using .h5](https://github.com/wwymak/til/blob/master/tensorflow/save_load_model_h5.md) - 2021-05-03
 <!-- index ends -->
